@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Phukphoom Taphrae</h1>
-<h3 align="center">I'm learning with the concept of "Learning by Sleeping".</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=phoom1477&label=Profile%20views&color=0e75b6&style=flat" alt="phoom1477" /> </p>
+<h3 align="center">I'm learning with the concept of "Learning by Sleeping"</h3>
 
 <p align="left"> <a href="https://twitter.com/phoom1477" target="blank"><img src="https://img.shields.io/twitter/follow/phoom1477?logo=twitter&style=for-the-badge" alt="phoom1477" /></a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=phoom1477&label=Profile%20views&color=0e75b6&style=flat" alt="phoom1477" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phoom1477" alt="phoom1477" /></a> </p>
 
