@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Phukphoom Taphrae</h1>
-<h3 align="center">A passionaI'm learning with the concept of "Learning by Sleeping"te frontend developer from India</h3>
+<h3 align="center">I'm learning with the concept of "Learning by Sleeping"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phukphoom&label=Profile%20views&color=0e75b6&style=flat" alt="phukphoom" /> </p>
 
