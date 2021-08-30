@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phukphoom" alt="phukphoom" /></a> </p>
 
 - 🌱 I’m currently learning **blockchain technology**
-- 📫 How to reach me **phoom0529@gmail.com**
+- 📫 How to reach me **phukphoom@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
