@@ -2,7 +2,7 @@
 <h3 align="center">I'm learning with the concept of "Learning by Sleeping"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phukphoom&label=Profile%20views&color=0e75b6&style=flat" alt="phukphoom" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phukphoom&theme=onestar" alt="phukphoom" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phukphoom&theme=onestar&margin-w=15&margin-h=15&no-frame=true" alt="phukphoom" /></a> </p>
 
 - 🌱 I’m currently learning **blockchain technology**
 - 📫 How to reach me **phukphoom@gmail.com**
